@@ -1,6 +1,6 @@
 module github.com/ezbuy/tgen
 
-go 1.15
+go 1.16
 
 require (
 	github.com/samuel/go-thrift v0.0.0-20191111193933-5165175b40af
