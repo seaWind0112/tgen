@@ -9,9 +9,9 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/ezbuy/tgen/global"
-	"github.com/ezbuy/tgen/langs"
-	"github.com/ezbuy/tgen/tmpl"
+	"github.com/seaWind0112/tgen/global"
+	"github.com/seaWind0112/tgen/langs"
+	"github.com/seaWind0112/tgen/tmpl"
 	"github.com/samuel/go-thrift/parser"
 )
 

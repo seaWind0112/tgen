@@ -1,4 +1,4 @@
-module github.com/ezbuy/tgen
+module github.com/seaWind0112/tgen
 
 go 1.16
 

@@ -17,7 +17,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/ezbuy/tgen/global"
+	"github.com/seaWind0112/tgen/global"
 	"github.com/spf13/cobra"
 )
 

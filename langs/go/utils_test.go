@@ -12,7 +12,7 @@ func TestGenNamespace(t *testing.T) {
 	}{
 		{
 			"github.com..ezbuy..tgen..thriftgotest..unusedInclude",
-			"github.com/ezbuy/tgen/thriftgotest/unusedInclude",
+			"github.com/seaWind0112/tgen/thriftgotest/unusedInclude",
 			"unusedInclude",
 		},
 		{

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ezbuy/tgen/global"
+	"github.com/seaWind0112/tgen/global"
 	"github.com/samuel/go-thrift/parser"
 )
 

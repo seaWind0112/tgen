@@ -3,7 +3,7 @@
 Set GOPATH and run.
 
 ```
-$ go get github.com/ezbuy/tgen/...
+$ go get github.com/seaWind0112/tgen/...
 ```
 
 ## Usage

@@ -22,11 +22,11 @@ test-go-gen: buildTpl
 	./tgen gen -l go -r --validate -i example/golang/Service.thrift -o ../../../
 	./tgen gen -l go -i example/golang/SimpleArguments.thrift -o ../../../
 	./tgen gen -l go -w=false -i example/golang/UnusedInclude.thrift -o ../../../
-	go install github.com/ezbuy/tgen/thriftgotest/...
+	go install github.com/seaWind0112/tgen/thriftgotest/...
 
 test-go-ezrpc: test-go-gen
 	ezrpc gen -l go -i example/golang/Service.thrift -o ../../../
-	go install github.com/ezbuy/tgen/thriftgotest/...
+	go install github.com/seaWind0112/tgen/thriftgotest/...
 
 buildTpl:
 	go-bindata -nometadata -o tmpl/bindata.go -ignore bindata.go -pkg tmpl tmpl/*

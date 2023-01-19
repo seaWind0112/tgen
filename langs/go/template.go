@@ -4,7 +4,7 @@ import (
 	"os"
 	"text/template"
 
-	"github.com/ezbuy/tgen/tmpl"
+	"github.com/seaWind0112/tgen/tmpl"
 )
 
 var tpl *template.Template

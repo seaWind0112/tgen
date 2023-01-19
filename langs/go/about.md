@@ -10,4 +10,4 @@
 
 ##### Example
 
-`go run main.go gen -l go -i example/golang/UnusedInclude.thrift -o ../../../ && go install github.com/ezbuy/tgen/thriftgotest/...`
+`go run main.go gen -l go -i example/golang/UnusedInclude.thrift -o ../../../ && go install github.com/seaWind0112/tgen/thriftgotest/...`

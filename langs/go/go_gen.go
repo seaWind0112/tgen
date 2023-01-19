@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ezbuy/tgen/global"
-	"github.com/ezbuy/tgen/langs"
+	"github.com/seaWind0112/tgen/global"
+	"github.com/seaWind0112/tgen/langs"
 	"github.com/samuel/go-thrift/parser"
 )
 

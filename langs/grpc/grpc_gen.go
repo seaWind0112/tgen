@@ -9,8 +9,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ezbuy/tgen/langs"
-	"github.com/ezbuy/tgen/tmpl"
+	"github.com/seaWind0112/tgen/langs"
+	"github.com/seaWind0112/tgen/tmpl"
 	"github.com/samuel/go-thrift/parser"
 )
 

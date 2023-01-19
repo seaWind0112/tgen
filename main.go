@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/ezbuy/tgen/cmd"
+import "github.com/seaWind0112/tgen/cmd"
 
 //go:generate go get github.com/jteeuwen/go-bindata/...
 //go:generate go-bindata -o ./tmpl/bindata.go -ignore bindata.go -pkg tmpl tmpl/golang tmpl/swift tmpl/java
