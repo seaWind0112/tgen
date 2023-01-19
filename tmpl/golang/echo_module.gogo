@@ -6,7 +6,7 @@ import (
     "net/http"
     "encoding/json"
 
-    "github.com/ezbuy/utils/httputils/echoutils"
+    "github.com/seaWind0112/utils/httputils/echoutils"
     "gopkg.in/labstack/echo.v1"
 )
 

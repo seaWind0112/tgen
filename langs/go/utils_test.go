@@ -11,13 +11,13 @@ func TestGenNamespace(t *testing.T) {
 		pkgName   string
 	}{
 		{
-			"github.com..ezbuy..tgen..thriftgotest..unusedInclude",
+			"github.com..seaWind0112..tgen..thriftgotest..unusedInclude",
 			"github.com/seaWind0112/tgen/thriftgotest/unusedInclude",
 			"unusedInclude",
 		},
 		{
-			"github.com.ezbuy.tgen.thriftgotest.unusedInclude",
-			"github/com/ezbuy/tgen/thriftgotest/unusedInclude",
+			"github.com.seaWind0112.tgen.thriftgotest.unusedInclude",
+			"github/com/seaWind0112/tgen/thriftgotest/unusedInclude",
 			"unusedInclude",
 		},
 	}

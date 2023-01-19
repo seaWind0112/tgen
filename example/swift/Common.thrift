@@ -1,4 +1,4 @@
-namespace java com.ezbuy.basic
+namespace java com.seaWind0112.basic
 namespace swift TRCommon
 
 struct TCommon {}

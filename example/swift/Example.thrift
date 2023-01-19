@@ -1,4 +1,4 @@
-namespace java com.ezbuy.example
+namespace java com.seaWind0112.example
 namespace swift TRE
 
 include "Shared.thrift"

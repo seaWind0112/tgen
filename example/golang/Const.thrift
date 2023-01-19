@@ -1,4 +1,4 @@
-namespace go github.com..ezbuy..tgen..thriftgotest..constant
+namespace go github.com..seaWind0112..tgen..thriftgotest..constant
 
 include "Enum.thrift";
 

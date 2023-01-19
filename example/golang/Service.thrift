@@ -1,4 +1,4 @@
-namespace go github.com..ezbuy..tgen..thriftgotest..service
+namespace go github.com..seaWind0112..tgen..thriftgotest..service
 
 include "Types.thrift";
 include "Enum.thrift"

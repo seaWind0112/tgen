@@ -1,4 +1,4 @@
-namespace go github.com..ezbuy..tgen..thriftgotest..unusedInclude
+namespace go github.com..seaWind0112..tgen..thriftgotest..unusedInclude
 
 include "Const.thrift"
 include "SimpleArguments.thrift"

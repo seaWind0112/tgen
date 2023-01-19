@@ -1,4 +1,4 @@
-namespace go github.com..ezbuy..tgen..thriftgotest..types
+namespace go github.com..seaWind0112..tgen..thriftgotest..types
 
 exception ExceptionsTest1 {
     1:required i32 code

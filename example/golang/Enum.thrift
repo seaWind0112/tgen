@@ -1,4 +1,4 @@
-namespace go github.com..ezbuy..tgen..thriftgotest..enum
+namespace go github.com..seaWind0112..tgen..thriftgotest..enum
 
 enum enumTest1 {
     EnumA = 5,

@@ -1,4 +1,4 @@
-namespace go github.com..ezbuy..tgen..thriftgotest..includeEnum
+namespace go github.com..seaWind0112..tgen..thriftgotest..includeEnum
 
 include "Enum.thrift";
 
